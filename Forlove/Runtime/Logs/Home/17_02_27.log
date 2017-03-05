@@ -1,0 +1,12 @@
+[ 2017-02-27T16:27:31+08:00 ] ::1 /INdex.php/home/gaobai
+ERR: 无法加载控制器:Gaobai
+
+[ 2017-02-27T16:27:36+08:00 ] ::1 /Index.php/home/gaobai
+ERR: 无法加载控制器:Gaobai
+
+[ 2017-02-27T16:27:37+08:00 ] ::1 /INdex.php/home/gaobai
+ERR: 无法加载控制器:Gaobai
+
+[ 2017-02-27T16:28:56+08:00 ] ::1 /index.php/home/admin/post
+ERR: 非法操作:post
+
